@@ -1,9 +1,9 @@
 ## Hi, I'm Samuel ​✨​
 
 🧠​ Computer science student at CUSAT<br/>
-​🌌​ I create themed desktop apps to stay consistent<br/>
-​🎥 I make videos about code and design on [Instagram](https://www.instagram.com/b.telgeuse/) and [Tiktok](https://www.tiktok.com/@b.telgeuse18)<br/>
-🪻 Download my projects and useful resources/tutorials on my [Gumroad](https://btelgeuse.gumroad.com/)<br/>
+​🌌​ Passionate about Machine Building and Web Devlopment <br/>
+   building scalable applications that integrate ML with modern web technologies to solve financial and legal problems<br/>
+​🎥 Recently started my journey into Machine Learning and AI<br/>
 
 # Connect with me !!
 <!-- <h3 align="left">Connect with me:</h3> -->
